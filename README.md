@@ -1,2 +1,1 @@
-# backend_template
-#golang backend
+# Golang Boilerplan

@@ -1,0 +1,17 @@
+database:
+  host: "103.50.204.55"
+  port: "5432"
+  name: "medtech"
+  user: "fibo"
+  password: "fibo123"
+  timezone: "Asia/Ulaanbaatar"
+
+server:
+  GIN_MODE: "debug"
+  PORT: ":1111"
+
+minio:
+  endpoint: "103.50.204.55:9000"
+  accessKeyID: "AKIAIOSFODNN7EXAMPLE"
+  secretAccessKey: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+  useSSL: false
